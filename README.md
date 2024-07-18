@@ -31,4 +31,4 @@ In this analysis, we will analyse customer-level data of a bank, build predictiv
 - Train the model and fine-tune hyperparameters.
 - Evaluate the models' performance
 ## Result
-Random forest has the best results for our problem. Random Forest has the best accuracy and lowest false negative rate.Hence we’ll choose Random Forest.
+Random forest has the best results for our problem. Random Forest has the highest accuracy and highest f1-score. Hence we’ll choose Random Forest.
